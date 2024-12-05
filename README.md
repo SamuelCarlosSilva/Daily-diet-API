@@ -1,4 +1,5 @@
-Desafio 02 - Daily diet API
+Desafio 02 - trilha nodejs ignite da Rocketseat
+Título: Daily diet API
  
 - Deve ser possível criar um usuário
 - Deve ser possível identificar o usuário entre as requisições
